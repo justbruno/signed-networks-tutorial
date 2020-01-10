@@ -1,2 +1,2 @@
 # Mining signed networks: theory and applications
-## TheWebConference 2020 tutorial
+## The Web Conference 2020 tutorial
