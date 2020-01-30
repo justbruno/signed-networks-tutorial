@@ -9,13 +9,16 @@ Signed networks transform the information encoded by conventional graphs by atta
 ---
 The tutorial will be divided into four sections: introduction, theory, problems & applications, and future directions.
 
+
 1. Introduction
   * Definition of signed network
   * Motivation
 
+
 2. Theory
   * Balance and status theory. Signs can be interpreted in different ways. They can for instance indicate friendship/enmity or admiration/disdain. These interpretations lead to balance and status theory, respectively. We will discuss basic concepts and present fundamental results.
   * Spectral theory. The spectral theory of signed graphs is fundamentally different to that of their unsigned counterparts. We will define the signed Laplacian and discuss its properties. We will introduce the concept of switching equivalence and its implications.
+
 
 3. Problems and applications
   * Node ranking
@@ -26,6 +29,7 @@ The tutorial will be divided into four sections: introduction, theory, problems 
   * Graph embedding and representation learning
   * Recommendations in signed networks
 
+
 4. Future directions
 Research interest in signed networks has increased significantly over the last few years. We will discuss opportunities for further inquiry in the near future, covering some of the most compelling open problems and emerging applications.
 
@@ -33,6 +37,7 @@ Research interest in signed networks has increased significantly over the last f
 ---
 
 Slides: TBA
+
 Relevant papers: TBA
 
 ### Tutors
