@@ -1,4 +1,3 @@
-## The Web Conference 2020 tutorial
 
 ### Abstract
 ---
