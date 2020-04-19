@@ -9,23 +9,22 @@ The tutorial will be divided into four sections: introduction, theory, problems 
 
 
 1. Introduction
-  * Definition of signed network
-  * Motivation
+  * Motivation and applications
 
 
 2. Theory
-  * Balance and status theory. Signs can be interpreted in different ways. They can for instance indicate friendship/enmity or admiration/disdain. These interpretations lead to balance and status theory, respectively. We will discuss basic concepts and present fundamental results.
+  * Balance theory. The interpretation of signs as indicative of friendship/enmity leads to balance theory. We will discuss basic concepts and present fundamental results.
   * Spectral theory. The spectral theory of signed graphs is fundamentally different to that of their unsigned counterparts. We will define the signed Laplacian and discuss its properties. We will introduce the concept of switching equivalence and its implications.
+  * Frustration. If a graph is imbalanced, how much do we need to modify it so that it becomes balanced? This is the notion of frustration, which spurs some of the key questions in combinatorial optimization and graph mining in relation to signed networks.
 
 
 3. Problems and applications
-  * Node ranking
-  * Graph partitioning and clustering
-  * Community detection and polarization in social media
-  * Link and sign prediction
-  * Dense subgraph discovery in signed networks
-  * Graph embedding and representation learning
-  * Recommendations in signed networks
+  * Subgraph mining
+  * Graph partitioning
+  * Correlation clustering
+  * Link prediction and classification
+  * Network dynamics
+  * Graph embedding and representation learning  
 
 
 4. Future directions
