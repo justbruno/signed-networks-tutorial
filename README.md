@@ -35,7 +35,6 @@ Research interest in signed networks has increased significantly over the last f
 
 [Slides](https://github.com/justbruno/signed-networks-tutorial/blob/master/main.pdf)
 
-Relevant papers: TBA
 
 ### Tutors
 ---
